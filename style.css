@@ -109,3 +109,31 @@ body {
 .info-card p {
     margin: 4px 0 0 0;
 }
+
+
+
+.quote {
+    background-color: #E5E7EB;
+    padding: 100px 300px;
+    display: flex;
+    flex-direction: column;
+    align-items: center;
+}
+
+.quote-text {
+    font-size: 36px;
+    font-weight: 300;
+    font-style: italic;
+    color: #1F2937;
+    width: 900px;
+    margin: 0;
+}
+
+.quote-author {
+    font-size: 18px;
+    font-weight: 900;
+    margin: 0;
+    width: 700px;
+    text-align: right;
+    color: #333;
+}
