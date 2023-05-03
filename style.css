@@ -137,3 +137,41 @@ body {
     text-align: right;
     color: #333;
 }
+
+
+
+.cta {
+    padding: 75px 300px;
+    color: #F9FAF8;
+}
+
+.cta-banner {
+    padding: 64px 0;
+    background-color: #3882F6;
+    display: flex;
+    justify-content: space-around;
+    align-items: center;
+    border-radius: 8px;
+}
+
+.cta-heading {
+    margin: 0;
+    margin-bottom: 4px;
+    font-size: 24px;
+    font-weight: 900;
+}
+
+.cta-text {
+    margin: 0;
+    color: #E5E7EB;
+}
+
+.cta-button {
+    background-color: #3882F6;
+    padding: 16px 64px;
+    border: 2px solid #F9FAF8;
+    border-radius: 8px;
+    color: #F9FAF8;
+    font-weight: 900;
+    font-size: 18px;
+}
